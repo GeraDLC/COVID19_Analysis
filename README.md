@@ -1,7 +1,5 @@
 # Análisis de COVID-19 en Alemania
 
-Autor: Gerardo de la Cruz C.
-
 ***Autor: Gerardo de la Cruz C.***
 
 Una entidad gubernamental responsable de la gestión de la salud en un país enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia. Como Científico de Datos, la tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas claves:
@@ -22,23 +20,29 @@ Una entidad gubernamental responsable de la gestión de la salud en un país enf
 
 Después de una limpieza de datos, los resultados que se obtuvieron fueron los siguientes:
 
-![Visualización](Unknown.png)
+![Visualización](Unknown-5.png)
 
 
-![Balanceo de Clases](Unknown-2.png)
+![Balanceo de Clases](Unknown-6.png)
 
 
-![Mapa Calor](Unknown-3.png)
+![Mapa Calor](Unknown-7.png)
 
 
-![Matrices de Confusión](Unknown-4.png)
-
-![Matrices de Confusión](Unknown-5.png)
-
-![Matrices de Confusión](Unknown-6.png)
+![Matrices de Confusión](Unknown-8.png)
 
 
-![Comparación Modelos](Unknown-7.png)
+![Matrices de Confusión](Unknown-9.png)
+
+
+![Matrices de Confusión](Unknown-10.png)
+
+
+![Comparación Modelos](Unknown-11.png)
+
+
+![Comparación Modelos](Unknown-12.png)
+
 
 ## Conclusiones
 
