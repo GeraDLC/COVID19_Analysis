@@ -27,6 +27,7 @@ Después de una limpieza exhaustiva de datos, los resultados que se obtuvieron f
 ![g2](Unknown-6.png)
 
 Estudiando los casos y muertes diarias, fue interesante encontrar que no hubo coincidencia de fechas en el pico de nuevos casos y muertes diarias.
+
 ![g3](Unknown-7.png)
 
 
