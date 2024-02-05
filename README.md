@@ -20,10 +20,13 @@ Una entidad gubernamental responsable de la gestión de la salud en un país enf
 
 Después de una limpieza de datos, los resultados que se obtuvieron fueron los siguientes:
 
+
+
 ![g1](Unknown-5.png)
 
 
 ![g2](Unknown-6.png)
+
 
 
 ![g3](Unknown-7.png)
@@ -31,10 +34,13 @@ Después de una limpieza de datos, los resultados que se obtuvieron fueron los s
 
 ![g4](Unknown-8.png)
 
-Se utilizó la herramienta Random Forest Regressor, que utiliza un enfoque de aprendizaje en conjunto al entrenar múltiples árboles de decisión. Cada árbol se entrena con una submuestra aleatoria del conjunto de datos y realiza predicciones independientes. En este caso, nos fue útil al momento de calcular las características relevantes en cuanto al índice de letalidad.
+El índice de letalidad se refiere a la proporción de casos confirmados que resultan en fallecimiento. Se calcula dividiendo el número de fallecimientos entre el número total de casos confirmados y multiplicando el resultado por 100 para obtener un porcentaje.
+
+Es importante tener en cuenta que el índice de letalidad puede variar según diversos factores, como la calidad de los datos de salud, la capacidad de prueba, la demografía de la población, la disponibilidad de atención médica y la respuesta gubernamental.
 
 ![g5](Unknown-9.png)
 
+Se utilizó la herramienta Random Forest Regressor, que utiliza un enfoque de aprendizaje en conjunto al entrenar múltiples árboles de decisión. Cada árbol se entrena con una submuestra aleatoria del conjunto de datos y realiza predicciones independientes. En este caso, nos fue útil al momento de calcular las características relevantes en cuanto al índice de letalidad.
 
 ![g6](Unknown-10.png)
 
