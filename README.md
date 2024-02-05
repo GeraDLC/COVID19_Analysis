@@ -22,23 +22,14 @@ Una entidad gubernamental responsable de la gestión de la salud en un país enf
 
 Después de una limpieza de datos, los resultados que se obtuvieron fueron los siguientes:
 
-### Visualización y Balanceo de Clases
-Una vez preprocesados los datos, se realizaron los siguientes gráficos de algunas características que parecieron relevantes del Dataframe.
-
 ![Visualización](Unknown.png)
 
-Es importante mencionar que fue necesario hacer un balanceo de las clases para obtener mejores resultados.
 
 ![Balanceo de Clases](Unknown-2.png)
 
-### Mapa de Calor
-El siguiente mapa de correlación nos indica que tan relacionadas están las variables unas con otras. Cabe mencionar que se descartaron algunas variables no tan importantes del conjunto de datos original, esto con la finalidad de lograr un mejor modelo.
 
 ![Mapa Calor](Unknown-3.png)
 
-###               Matrices de Confusión
-
-Se probaron diferentes modelos de Machine Learning, los cuales se pueden observar los resultados de estos a continuación.
 
 ![Matrices de Confusión](Unknown-4.png)
 
@@ -46,12 +37,13 @@ Se probaron diferentes modelos de Machine Learning, los cuales se pueden observa
 
 ![Matrices de Confusión](Unknown-6.png)
 
-### Comparación de Modelos
-
-Parece ser que los modelos con mejores métricas resultan ser Random Forest Classifier y KNN.
 
 ![Comparación Modelos](Unknown-7.png)
 
 ## Conclusiones
 
-#### En este proyecto de machine learning el modelo con las mejores métricas fue Random Forest Classifier, obteniendo un Accuracy: 0.846 y Precisión: 0.807. El cual lo hace el modelo con mejores métricas para este proyecto de clasificación de potenciales buenos y malos clientes. Como se observa en la matriz de confusión, RFC es el modelo que menos se equivoca en general al clasificar a los clientes.
+**1.- Alemania ha reportado hasta ahora un total de 38.4M casos de COVID-19, de los cuales, sólo se registran 175k muertes, lo cual equivale a un 0.45% de muertes totales respecto a los casos totales.**
+
+**2.- El 76% de los alemanes están vacunados con al menos las primeras dosis, lo cual corresponde al importante decenso del índice de letalidad después de la aplicación de la primera dosis (23 de Diciembre del 2020).**
+
+**3.- Podemos decir que Alemania fue uno de los países que mejor salió adelante en la pandemia.**
