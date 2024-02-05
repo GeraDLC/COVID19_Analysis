@@ -37,9 +37,11 @@ Después de una limpieza de datos, los resultados que se obtuvieron fueron los s
 
 ![Matrices de Confusión](Unknown-10.png)
 
+Alemania ocupa el lugar 34 en Expectativa de Vida por país, dejándolo bien parado durante la pandemia respecto a otros países y considerando que fue la característica de mayor relevancia en cuanto al Índice de Letalidad.
 
 ![Comparación Modelos](Unknown-11.png)
 
+En cuanto a la densidad poblacional, Alemania ocupa el lugar 55 a nivel mundiaL, lo que coincide con que sea uno de los principales países con mas casos diarios de COVID-19.
 
 ![Comparación Modelos](Unknown-12.png)
 
