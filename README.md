@@ -34,21 +34,21 @@ Después de una limpieza de datos, los resultados que se obtuvieron fueron los s
 
 ![g4](Unknown-8.png)
 
-El índice de letalidad se refiere a la proporción de casos confirmados que resultan en fallecimiento. Se calcula dividiendo el número de fallecimientos entre el número total de casos confirmados y multiplicando el resultado por 100 para obtener un porcentaje.
+El **índice de letalidad** se refiere a la proporción de casos confirmados que resultan en fallecimiento. Se calcula dividiendo el número de fallecimientos entre el número total de casos confirmados y multiplicando el resultado por 100 para obtener un porcentaje.
 
 Es importante tener en cuenta que el índice de letalidad puede variar según diversos factores, como la calidad de los datos de salud, la capacidad de prueba, la demografía de la población, la disponibilidad de atención médica y la respuesta gubernamental.
 
 ![g5](Unknown-9.png)
 
-Se utilizó la herramienta Random Forest Regressor, que utiliza un enfoque de aprendizaje en conjunto al entrenar múltiples árboles de decisión. Cada árbol se entrena con una submuestra aleatoria del conjunto de datos y realiza predicciones independientes. En este caso, nos fue útil al momento de calcular las características relevantes en cuanto al índice de letalidad.
+Se utilizó la herramienta **Random Forest Regressor**, que utiliza un enfoque de aprendizaje en conjunto al entrenar múltiples árboles de decisión. Cada árbol se entrena con una submuestra aleatoria del conjunto de datos y realiza predicciones independientes. En este caso, nos fue útil al momento de calcular las características relevantes en cuanto al índice de letalidad.
 
 ![g6](Unknown-10.png)
 
-Alemania ocupa el lugar 34 en Expectativa de Vida por país, dejándolo bien parado durante la pandemia respecto a otros países y considerando que fue la característica de mayor relevancia en cuanto al Índice de Letalidad.
+**Alemania** ocupa el **lugar 34** en Expectativa de Vida por país, dejándolo bien parado durante la pandemia respecto a otros países y considerando que fue la característica de mayor relevancia en cuanto al Índice de Letalidad.
 
 ![g7](Unknown-11.png)
 
-En cuanto a la densidad poblacional, Alemania ocupa el lugar 55 a nivel mundiaL, lo que coincide con que sea uno de los principales países con mas casos diarios de COVID-19.
+En cuanto a la densidad poblacional, **Alemania** ocupa el **lugar 55** a nivel mundiaL, lo que coincide con que sea uno de los principales países con mas casos diarios de COVID-19.
 
 ![g8](Unknown-12.png)
 
