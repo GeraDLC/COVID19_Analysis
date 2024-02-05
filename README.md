@@ -20,30 +20,31 @@ Una entidad gubernamental responsable de la gestión de la salud en un país enf
 
 Después de una limpieza de datos, los resultados que se obtuvieron fueron los siguientes:
 
-![Visualización](Unknown-5.png)
+![g1](Unknown-5.png)
 
 
-![Balanceo de Clases](Unknown-6.png)
+![g2](Unknown-6.png)
 
 
-![Mapa Calor](Unknown-7.png)
+![g3](Unknown-7.png)
 
 
-![Matrices de Confusión](Unknown-8.png)
+![g4](Unknown-8.png)
+
+Se utilizó la herramienta Random Forest Regressor, que utiliza un enfoque de aprendizaje en conjunto al entrenar múltiples árboles de decisión. Cada árbol se entrena con una submuestra aleatoria del conjunto de datos y realiza predicciones independientes. En este caso, nos fue útil al momento de calcular las características relevantes en cuanto al índice de letalidad.
+
+![g5](Unknown-9.png)
 
 
-![Matrices de Confusión](Unknown-9.png)
-
-
-![Matrices de Confusión](Unknown-10.png)
+![g6](Unknown-10.png)
 
 Alemania ocupa el lugar 34 en Expectativa de Vida por país, dejándolo bien parado durante la pandemia respecto a otros países y considerando que fue la característica de mayor relevancia en cuanto al Índice de Letalidad.
 
-![Comparación Modelos](Unknown-11.png)
+![g7](Unknown-11.png)
 
 En cuanto a la densidad poblacional, Alemania ocupa el lugar 55 a nivel mundiaL, lo que coincide con que sea uno de los principales países con mas casos diarios de COVID-19.
 
-![Comparación Modelos](Unknown-12.png)
+![g8](Unknown-12.png)
 
 
 ## Conclusiones
